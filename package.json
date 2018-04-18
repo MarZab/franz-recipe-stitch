@@ -1,0 +1,18 @@
+{
+  "id": "stitch",
+  "name": "Stitch",
+  "version": "1.0.0",
+  "description": "Stitch",
+  "main": "index.js",
+  "author": "Marko Zabreznik <marko@zabreznik.net>",
+  "license": "MIT",
+  "repository": "https://github.com/marzab/franz-recipe-stitch",
+  "config": {
+    "serviceURL": "https://{teamId}.teamstitch.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true,
+    "urlInputSuffix": ".teamstitch.com"
+  }
+}
